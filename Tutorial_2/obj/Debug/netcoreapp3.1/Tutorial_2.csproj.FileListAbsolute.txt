@@ -1,0 +1,15 @@
+E:\Tutorial_2\Tutorial_2\bin\Debug\netcoreapp3.1\Tutorial_2.exe
+E:\Tutorial_2\Tutorial_2\bin\Debug\netcoreapp3.1\Tutorial_2.deps.json
+E:\Tutorial_2\Tutorial_2\bin\Debug\netcoreapp3.1\Tutorial_2.runtimeconfig.json
+E:\Tutorial_2\Tutorial_2\bin\Debug\netcoreapp3.1\Tutorial_2.runtimeconfig.dev.json
+E:\Tutorial_2\Tutorial_2\bin\Debug\netcoreapp3.1\Tutorial_2.dll
+E:\Tutorial_2\Tutorial_2\bin\Debug\netcoreapp3.1\Tutorial_2.pdb
+E:\Tutorial_2\Tutorial_2\obj\Debug\netcoreapp3.1\Tutorial_2.csproj.AssemblyReference.cache
+E:\Tutorial_2\Tutorial_2\obj\Debug\netcoreapp3.1\Tutorial_2.AssemblyInfoInputs.cache
+E:\Tutorial_2\Tutorial_2\obj\Debug\netcoreapp3.1\Tutorial_2.AssemblyInfo.cs
+E:\Tutorial_2\Tutorial_2\obj\Debug\netcoreapp3.1\Tutorial_2.csproj.CoreCompileInputs.cache
+E:\Tutorial_2\Tutorial_2\obj\Debug\netcoreapp3.1\Tutorial_2.dll
+E:\Tutorial_2\Tutorial_2\obj\Debug\netcoreapp3.1\Tutorial_2.pdb
+E:\Tutorial_2\Tutorial_2\obj\Debug\netcoreapp3.1\Tutorial_2.genruntimeconfig.cache
+E:\Tutorial_2\Tutorial_2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Tutorial_2\Tutorial_2\obj\Debug\netcoreapp3.1\Tutorial_2.csproj.CopyComplete

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Il/fuNP3IVHcHXfgXUl3f1emQDUyH9Ng/F55cc2Fe7HeqBfGoePqgOpaC4jejDow7ZfimWJXTCutO7eMXCOg2Q==",
+  "success": true,
+  "projectFilePath": "E:\\Tutorial_2\\Tutorial_2\\Tutorial_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Natal\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
